@@ -1,0 +1,103 @@
+CODE BOOK
+
+Subject:
+•	The ID of the subject
+
+Activity:
+•	The activity that was performed by the subject when the measurements were taken
+
+Activity Labels:
+•	Activities Considered in this study:
+o	Walking
+	Subject was walking during the test on flat ground
+o	Walking_upstairs
+	Subject was walking upstairs during the test
+o	Walking_downstairs
+	Subject was walking downstairs during the test
+o	Sitting 
+	Subject was sitting during the test
+o	Standing 
+	Subject was standing during the test
+o	Laying
+	Subject was laying during the test
+
+Subject Activity Measurements:
+•	tBodyAccMeanX
+•	tBodyAccMeanY
+•	tBodyAccMeanZ
+•	tBodyAccStdX
+•	tBodyAccStdY
+•	tBodyAccStdZ
+•	tGravityAccMeanX
+•	tGravityAccMeanY
+•	tGravityAccMeanZ
+•	tGravityAccStdX
+•	tGravityAccStdY
+•	tGravityAccStdZ
+•	tBodyAccJerkMeanX
+•	tBodyAccJerkMeanY
+•	tBodyAccJerkMeanZ
+•	tBodyAccJerkStdX
+•	tBodyAccJerkStdY
+•	tBodyAccJerkStdZ
+•	tBodyGyroMeanX
+•	tBodyGyroMeanY
+•	tBodyGyroMeanZ
+•	tBodyGyroStdX
+•	tBodyGyroStdY
+•	tBodyGyroStdZ
+•	tBodyGyroJerkMeanX
+•	tBodyGyroJerkMeanY
+•	tBodyGyroJerkMeanZ
+•	tBodyGyroJerkStdX
+•	tBodyGyroJerkStdY
+•	tBodyGyroJerkStdZ
+•	tBodyAccMagMean
+•	tBodyAccMagStd
+•	tGravityAccMagMean
+•	tGravityAccMagStd
+•	tBodyAccJerkMagMean
+•	tBodyAccJerkMagStd
+•	tBodyGyroMagMean
+•	tBodyGyroMagStd
+•	tBodyGyroJerkMagMean
+•	tBodyGyroJerkMagStd
+•	fBodyAccMeanX
+•	fBodyAccMeanY
+•	fBodyAccMeanZ
+•	fBodyAccStdX
+•	fBodyAccStdY
+•	fBodyAccStdZ
+•	fBodyAccMeanFreqX
+•	fBodyAccMeanFreqY
+•	fBodyAccMeanFreqZ
+•	fBodyAccJerkMeanX
+•	fBodyAccJerkMeanY
+•	fBodyAccJerkMeanZ
+•	fBodyAccJerkStdX
+•	fBodyAccJerkStdY
+•	fBodyAccJerkStdZ
+•	fBodyAccJerkMeanFreqX
+•	fBodyAccJerkMeanFreqY
+•	fBodyAccJerkMeanFreqZ
+•	fBodyGyroMeanX
+•	fBodyGyroMeanY
+•	fBodyGyroMeanZ
+•	fBodyGyroStdX
+•	fBodyGyroStdY
+•	fBodyGyroStdZ
+•	fBodyGyroMeanFreqX
+•	fBodyGyroMeanFreqY
+•	fBodyGyroMeanFreqZ
+•	fBodyAccMagMean
+•	fBodyAccMagStd
+•	fBodyAccMagMeanFreq
+•	fBodyBodyAccJerkMagMean
+•	fBodyBodyAccJerkMagStd
+•	fBodyBodyAccJerkMagMeanFreq
+•	fBodyBodyGyroMagMean
+•	fBodyBodyGyroMagStd
+•	fBodyBodyGyroMagMeanFreq
+•	fBodyBodyGyroJerkMagMean
+•	fBodyBodyGyroJerkMagStd
+•	fBodyBodyGyroJerkMagMeanFreq
